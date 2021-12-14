@@ -1,0 +1,72 @@
+Hi Amardip,
+
+As we discussed, I would like to invite you for another interview, and for this one, I’d like you to learn a few topics that I intend to take a deep dive into.
+
+The topics are TCP and SSL (including handshake), HIPAA, S3, Security groups, and capital 1 cloud incident.
+
+I will also ask you some basic cybersecurity questions.
+
+The team is the owner of the content of two main pillars of Check Point’s CloudGuard:
+
+Cloud Intelligence and Threat Hunting --> https://www.checkpoint.com/cloudguard/cloud-intelligence-threat-hunting/
+
+CloudGuard for Cloud Security Posture Management --> https://www.checkpoint.com/cloudguard/cloud-security-posture-management/
+
+You may watch the video of both pillars on each page.
+
+Also, please find here example of our rules: https://gsl.dome9.com/; https://gsl.dome9.com/logic/index.html
+
+These rules are written by the team after an investigation and cloud services research.
+
+Good luck,
+
+[https://zoom.us/account/branding/p/cdf77040-3fa2-41ff-a987-83ad7137d7db.jpg]<http://zoom.us/>
+
+Hi there,
+
+Omer Shliva is inviting you to a scheduled Zoom meeting.
+
+Join Zoom Meeting<https://checkpoint.zoom.us/j/98871413328?pwd=VmhSaHA2ZXVrYStMQVQvNFlxbDBEdz09>
+
+Phone one-tap:
+
+US: +12532158782,,98871413328#<tel:+12532158782,,98871413328> or +13017158592,,98871413328#<tel:+13017158592,,98871413328>
+
+Meeting URL:
+
+https://checkpoint.zoom.us/j/98871413328?pwd=VmhSaHA2ZXVrYStMQVQvNFlxbDBEdz09
+
+Meeting ID:
+
+988 7141 3328
+
+Password:
+
+912083
+
+Join by Telephone
+
+For higher quality, dial a number based on your current location.
+
+Dial:
+
+
+US: +1 253 215 8782 or +1 301 715 8592 or +1 312 626 6799 or +1 346 248 7799 or +1 646 558 8656 or +1 669 900 6833
+Israel: +972 3 978 6688 or +972 55 330 1762
+
+Meeting ID:
+
+988 7141 3328
+
+Password:
+
+912083
+
+International numbers<https://checkpoint.zoom.us/u/abxBm6HDIu>
+
+
+
+
+
+
+
